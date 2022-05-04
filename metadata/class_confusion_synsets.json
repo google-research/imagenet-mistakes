@@ -1,0 +1,2407 @@
+[
+  [
+    "vending machine",
+    "washer",
+    1
+  ],
+  [
+    "jigsaw puzzle",
+    "dough",
+    1
+  ],
+  [
+    "English foxhound",
+    "boxer",
+    1
+  ],
+  [
+    "teddy",
+    "toyshop",
+    1
+  ],
+  [
+    "jersey",
+    "crossword puzzle",
+    1
+  ],
+  [
+    "flute",
+    "trench coat",
+    1
+  ],
+  [
+    "backpack",
+    "soap dispenser",
+    1
+  ],
+  [
+    "soap dispenser",
+    "washbasin",
+    1
+  ],
+  [
+    "Norwegian elkhound",
+    "Siberian husky",
+    1
+  ],
+  [
+    "Norwegian elkhound",
+    "Eskimo dog",
+    1
+  ],
+  [
+    "ping-pong ball",
+    "sweatshirt",
+    1
+  ],
+  [
+    "tusker",
+    "Indian elephant",
+    1
+  ],
+  [
+    "bakery",
+    "bookshop",
+    1
+  ],
+  [
+    "desk",
+    "desktop computer",
+    1
+  ],
+  [
+    "desktop computer",
+    "monitor",
+    1
+  ],
+  [
+    "desktop computer",
+    "mouse",
+    1
+  ],
+  [
+    "desktop computer",
+    "screen",
+    1
+  ],
+  [
+    "ballpoint",
+    "jack-o'-lantern",
+    1
+  ],
+  [
+    "malinois",
+    "dingo",
+    1
+  ],
+  [
+    "toy terrier",
+    "Ibizan hound",
+    1
+  ],
+  [
+    "candle",
+    "carpenter's kit",
+    1
+  ],
+  [
+    "carpenter's kit",
+    "packet",
+    1
+  ],
+  [
+    "carpenter's kit",
+    "combination lock",
+    1
+  ],
+  [
+    "carpenter's kit",
+    "knot",
+    1
+  ],
+  [
+    "carpenter's kit",
+    "desk",
+    1
+  ],
+  [
+    "sandal",
+    "swimming trunks",
+    1
+  ],
+  [
+    "backpack",
+    "swimming trunks",
+    1
+  ],
+  [
+    "swimming trunks",
+    "seashore",
+    1
+  ],
+  [
+    "siamang",
+    "spider monkey",
+    1
+  ],
+  [
+    "soup bowl",
+    "trifle",
+    1
+  ],
+  [
+    "plate",
+    "trifle",
+    1
+  ],
+  [
+    "barn",
+    "boathouse",
+    1
+  ],
+  [
+    "African crocodile",
+    "American alligator",
+    1
+  ],
+  [
+    "Rhodesian ridgeback",
+    "beagle",
+    1
+  ],
+  [
+    "beagle",
+    "redbone",
+    1
+  ],
+  [
+    "beagle",
+    "Labrador retriever",
+    1
+  ],
+  [
+    "beagle",
+    "muzzle",
+    1
+  ],
+  [
+    "letter opener",
+    "pencil sharpener",
+    1
+  ],
+  [
+    "thunder snake",
+    "night snake",
+    1
+  ],
+  [
+    "altar",
+    "barn",
+    1
+  ],
+  [
+    "altar",
+    "cradle",
+    1
+  ],
+  [
+    "altar",
+    "hay",
+    1
+  ],
+  [
+    "ladybug",
+    "leaf beetle",
+    1
+  ],
+  [
+    "ladle",
+    "spatula",
+    1
+  ],
+  [
+    "ladle",
+    "wooden spoon",
+    1
+  ],
+  [
+    "barrel",
+    "vase",
+    1
+  ],
+  [
+    "bloodhound",
+    "redbone",
+    1
+  ],
+  [
+    "terrapin",
+    "box turtle",
+    1
+  ],
+  [
+    "box turtle",
+    "rule",
+    1
+  ],
+  [
+    "pop bottle",
+    "vending machine",
+    1
+  ],
+  [
+    "kit fox",
+    "grey fox",
+    1
+  ],
+  [
+    "harvester",
+    "thresher",
+    1
+  ],
+  [
+    "hammer",
+    "shovel",
+    1
+  ],
+  [
+    "hook",
+    "shovel",
+    1
+  ],
+  [
+    "American Staffordshire terrier",
+    "chain",
+    1
+  ],
+  [
+    "Staffordshire bullterrier",
+    "American Staffordshire terrier",
+    1
+  ],
+  [
+    "Tibetan terrier",
+    "cocker spaniel",
+    1
+  ],
+  [
+    "barometer",
+    "stopwatch",
+    1
+  ],
+  [
+    "barometer",
+    "chain",
+    1
+  ],
+  [
+    "analog clock",
+    "barometer",
+    1
+  ],
+  [
+    "Dutch oven",
+    "frying pan",
+    1
+  ],
+  [
+    "beer bottle",
+    "pop bottle",
+    1
+  ],
+  [
+    "ambulance",
+    "grille",
+    1
+  ],
+  [
+    "ambulance",
+    "minibus",
+    1
+  ],
+  [
+    "ambulance",
+    "police van",
+    1
+  ],
+  [
+    "kelpie",
+    "German shepherd",
+    1
+  ],
+  [
+    "sea anemone",
+    "crayfish",
+    1
+  ],
+  [
+    "spiny lobster",
+    "crayfish",
+    1
+  ],
+  [
+    "barn spider",
+    "garden spider",
+    1
+  ],
+  [
+    "Irish terrier",
+    "Lakeland terrier",
+    1
+  ],
+  [
+    "bonnet",
+    "wool",
+    1
+  ],
+  [
+    "chime",
+    "maze",
+    1
+  ],
+  [
+    "Walker hound",
+    "studio couch",
+    1
+  ],
+  [
+    "cannon",
+    "military uniform",
+    1
+  ],
+  [
+    "cannon",
+    "tripod",
+    1
+  ],
+  [
+    "cannon",
+    "jean",
+    1
+  ],
+  [
+    "cannon",
+    "pole",
+    1
+  ],
+  [
+    "bicycle-built-for-two",
+    "shopping basket",
+    1
+  ],
+  [
+    "amphibian",
+    "tank",
+    1
+  ],
+  [
+    "basenji",
+    "dingo",
+    1
+  ],
+  [
+    "fiddler crab",
+    "king crab",
+    1
+  ],
+  [
+    "ashcan",
+    "spotlight",
+    1
+  ],
+  [
+    "Italian greyhound",
+    "whippet",
+    1
+  ],
+  [
+    "otterhound",
+    "Tibetan terrier",
+    1
+  ],
+  [
+    "mobile home",
+    "moving van",
+    1
+  ],
+  [
+    "pillow",
+    "rocking chair",
+    1
+  ],
+  [
+    "rocking chair",
+    "velvet",
+    1
+  ],
+  [
+    "pole",
+    "rocking chair",
+    1
+  ],
+  [
+    "overskirt",
+    "pajama",
+    1
+  ],
+  [
+    "hoopskirt",
+    "pajama",
+    1
+  ],
+  [
+    "dishwasher",
+    "paper towel",
+    1
+  ],
+  [
+    "dishwasher",
+    "washbasin",
+    1
+  ],
+  [
+    "Angora",
+    "desk",
+    1
+  ],
+  [
+    "Angora",
+    "desktop computer",
+    1
+  ],
+  [
+    "common newt",
+    "spotted salamander",
+    1
+  ],
+  [
+    "padlock",
+    "submarine",
+    1
+  ],
+  [
+    "photocopier",
+    "printer",
+    1
+  ],
+  [
+    "nail",
+    "screwdriver",
+    1
+  ],
+  [
+    "crane",
+    "hook",
+    1
+  ],
+  [
+    "crane",
+    "knot",
+    1
+  ],
+  [
+    "chain",
+    "hook",
+    1
+  ],
+  [
+    "Border collie",
+    "Newfoundland",
+    1
+  ],
+  [
+    "buckle",
+    "pickelhaube",
+    1
+  ],
+  [
+    "pickelhaube",
+    "trench coat",
+    1
+  ],
+  [
+    "bakery",
+    "street sign",
+    1
+  ],
+  [
+    "measuring cup",
+    "nipple",
+    1
+  ],
+  [
+    "chain saw",
+    "lumbermill",
+    1
+  ],
+  [
+    "Australian terrier",
+    "silky terrier",
+    1
+  ],
+  [
+    "analog clock",
+    "sundial",
+    1
+  ],
+  [
+    "mitten",
+    "wool",
+    1
+  ],
+  [
+    "tiger cat",
+    "parallel bars",
+    1
+  ],
+  [
+    "lampshade",
+    "teapot",
+    1
+  ],
+  [
+    "pitcher",
+    "teapot",
+    1
+  ],
+  [
+    "table lamp",
+    "teapot",
+    1
+  ],
+  [
+    "teapot",
+    "water jug",
+    1
+  ],
+  [
+    "red wolf",
+    "coyote",
+    1
+  ],
+  [
+    "Crock Pot",
+    "water jug",
+    1
+  ],
+  [
+    "Crock Pot",
+    "dining table",
+    1
+  ],
+  [
+    "hair slide",
+    "pinwheel",
+    1
+  ],
+  [
+    "broom",
+    "swab",
+    1
+  ],
+  [
+    "chainlink fence",
+    "crane",
+    1
+  ],
+  [
+    "long-horned beetle",
+    "leaf beetle",
+    1
+  ],
+  [
+    "European fire salamander",
+    "spotted salamander",
+    1
+  ],
+  [
+    "wire-haired fox terrier",
+    "Lakeland terrier",
+    1
+  ],
+  [
+    "beagle",
+    "bluetick",
+    1
+  ],
+  [
+    "weasel",
+    "badger",
+    1
+  ],
+  [
+    "Norwich terrier",
+    "cairn",
+    1
+  ],
+  [
+    "bakery",
+    "diaper",
+    1
+  ],
+  [
+    "bloodhound",
+    "black-and-tan coonhound",
+    1
+  ],
+  [
+    "tarantula",
+    "wolf spider",
+    1
+  ],
+  [
+    "common iguana",
+    "American chameleon",
+    1
+  ],
+  [
+    "plastic bag",
+    "shower cap",
+    1
+  ],
+  [
+    "ambulance",
+    "fire engine",
+    1
+  ],
+  [
+    "swing",
+    "tripod",
+    1
+  ],
+  [
+    "tusker",
+    "African elephant",
+    1
+  ],
+  [
+    "agama",
+    "green lizard",
+    1
+  ],
+  [
+    "cassette player",
+    "CD player",
+    1
+  ],
+  [
+    "bicycle-built-for-two",
+    "trench coat",
+    1
+  ],
+  [
+    "bicycle-built-for-two",
+    "jean",
+    1
+  ],
+  [
+    "bicycle-built-for-two",
+    "car wheel",
+    1
+  ],
+  [
+    "backpack",
+    "bicycle-built-for-two",
+    1
+  ],
+  [
+    "Dandie Dinmont",
+    "soft-coated wheaten terrier",
+    1
+  ],
+  [
+    "Shetland sheepdog",
+    "collie",
+    1
+  ],
+  [
+    "broccoli",
+    "cauliflower",
+    1
+  ],
+  [
+    "chest",
+    "pencil box",
+    1
+  ],
+  [
+    "chest",
+    "velvet",
+    1
+  ],
+  [
+    "Yorkshire terrier",
+    "silky terrier",
+    1
+  ],
+  [
+    "cab",
+    "parking meter",
+    1
+  ],
+  [
+    "assault rifle",
+    "jeep",
+    1
+  ],
+  [
+    "bulletproof vest",
+    "jeep",
+    1
+  ],
+  [
+    "jeep",
+    "rifle",
+    1
+  ],
+  [
+    "airliner",
+    "warplane",
+    1
+  ],
+  [
+    "Granny Smith",
+    "lemon",
+    1
+  ],
+  [
+    "CD player",
+    "odometer",
+    1
+  ],
+  [
+    "digital clock",
+    "odometer",
+    1
+  ],
+  [
+    "odometer",
+    "radio",
+    1
+  ],
+  [
+    "cash machine",
+    "dial telephone",
+    1
+  ],
+  [
+    "computer keyboard",
+    "dial telephone",
+    1
+  ],
+  [
+    "plate",
+    "eggnog",
+    1
+  ],
+  [
+    "chain",
+    "crane",
+    1
+  ],
+  [
+    "European fire salamander",
+    "common newt",
+    1
+  ],
+  [
+    "lighter",
+    "torch",
+    1
+  ],
+  [
+    "broom",
+    "paintbrush",
+    1
+  ],
+  [
+    "bookcase",
+    "book jacket",
+    1
+  ],
+  [
+    "cuirass",
+    "hatchet",
+    1
+  ],
+  [
+    "chain mail",
+    "cuirass",
+    1
+  ],
+  [
+    "brass",
+    "trombone",
+    1
+  ],
+  [
+    "cornet",
+    "trombone",
+    1
+  ],
+  [
+    "jean",
+    "trombone",
+    1
+  ],
+  [
+    "cock",
+    "hen",
+    1
+  ],
+  [
+    "hair slide",
+    "rubber eraser",
+    1
+  ],
+  [
+    "lipstick",
+    "rubber eraser",
+    1
+  ],
+  [
+    "packet",
+    "rubber eraser",
+    1
+  ],
+  [
+    "rubber eraser",
+    "ice cream",
+    1
+  ],
+  [
+    "trifle",
+    "strawberry",
+    1
+  ],
+  [
+    "beach wagon",
+    "car wheel",
+    1
+  ],
+  [
+    "beach wagon",
+    "grille",
+    1
+  ],
+  [
+    "Pembroke",
+    "Cardigan",
+    1
+  ],
+  [
+    "doormat",
+    "switch",
+    1
+  ],
+  [
+    "balloon",
+    "church",
+    1
+  ],
+  [
+    "quilt",
+    "sliding door",
+    1
+  ],
+  [
+    "sliding door",
+    "wardrobe",
+    1
+  ],
+  [
+    "sliding door",
+    "window shade",
+    1
+  ],
+  [
+    "sliding door",
+    "television",
+    1
+  ],
+  [
+    "monitor",
+    "sliding door",
+    1
+  ],
+  [
+    "desk",
+    "sliding door",
+    1
+  ],
+  [
+    "pillow",
+    "sliding door",
+    1
+  ],
+  [
+    "lampshade",
+    "sliding door",
+    1
+  ],
+  [
+    "ballpoint",
+    "sliding door",
+    1
+  ],
+  [
+    "mud turtle",
+    "box turtle",
+    1
+  ],
+  [
+    "ruffed grouse",
+    "quail",
+    1
+  ],
+  [
+    "ruffed grouse",
+    "partridge",
+    1
+  ],
+  [
+    "bassoon",
+    "oboe",
+    1
+  ],
+  [
+    "bassoon",
+    "sax",
+    1
+  ],
+  [
+    "bassoon",
+    "violin",
+    1
+  ],
+  [
+    "perfume",
+    "thimble",
+    1
+  ],
+  [
+    "grasshopper",
+    "cricket",
+    1
+  ],
+  [
+    "window screen",
+    "eggnog",
+    1
+  ],
+  [
+    "cup",
+    "eggnog",
+    1
+  ],
+  [
+    "jay",
+    "magpie",
+    1
+  ],
+  [
+    "walking stick",
+    "mantis",
+    1
+  ],
+  [
+    "mantis",
+    "window screen",
+    1
+  ],
+  [
+    "pop bottle",
+    "pot",
+    1
+  ],
+  [
+    "pot",
+    "water bottle",
+    1
+  ],
+  [
+    "boathouse",
+    "dock",
+    1
+  ],
+  [
+    "boathouse",
+    "gondola",
+    1
+  ],
+  [
+    "chest",
+    "prayer rug",
+    1
+  ],
+  [
+    "bikini",
+    "swimming trunks",
+    1
+  ],
+  [
+    "apron",
+    "overskirt",
+    1
+  ],
+  [
+    "Rhodesian ridgeback",
+    "vizsla",
+    1
+  ],
+  [
+    "cleaver",
+    "letter opener",
+    1
+  ],
+  [
+    "aircraft carrier",
+    "cannon",
+    1
+  ],
+  [
+    "Band Aid",
+    "sock",
+    1
+  ],
+  [
+    "Band Aid",
+    "theater curtain",
+    1
+  ],
+  [
+    "Band Aid",
+    "screen",
+    1
+  ],
+  [
+    "Band Aid",
+    "monitor",
+    1
+  ],
+  [
+    "alp",
+    "promontory",
+    1
+  ],
+  [
+    "lakeside",
+    "promontory",
+    1
+  ],
+  [
+    "toy poodle",
+    "quilt",
+    1
+  ],
+  [
+    "toy poodle",
+    "laptop",
+    1
+  ],
+  [
+    "toy poodle",
+    "notebook",
+    1
+  ],
+  [
+    "miniature pinscher",
+    "toy poodle",
+    1
+  ],
+  [
+    "Rhodesian ridgeback",
+    "redbone",
+    1
+  ],
+  [
+    "hamper",
+    "stove",
+    1
+  ],
+  [
+    "necklace",
+    "velvet",
+    1
+  ],
+  [
+    "tiger cat",
+    "lynx",
+    1
+  ],
+  [
+    "American chameleon",
+    "alligator lizard",
+    1
+  ],
+  [
+    "academic gown",
+    "mortarboard",
+    1
+  ],
+  [
+    "perfume",
+    "web site",
+    1
+  ],
+  [
+    "gown",
+    "grand piano",
+    1
+  ],
+  [
+    "grand piano",
+    "hoopskirt",
+    1
+  ],
+  [
+    "head cabbage",
+    "zucchini",
+    1
+  ],
+  [
+    "solar dish",
+    "sunglass",
+    1
+  ],
+  [
+    "solar dish",
+    "sunglasses",
+    1
+  ],
+  [
+    "jean",
+    "solar dish",
+    1
+  ],
+  [
+    "bannister",
+    "solar dish",
+    1
+  ],
+  [
+    "pole",
+    "solar dish",
+    1
+  ],
+  [
+    "buckle",
+    "solar dish",
+    1
+  ],
+  [
+    "miniature schnauzer",
+    "sunglass",
+    1
+  ],
+  [
+    "miniature schnauzer",
+    "sunglasses",
+    1
+  ],
+  [
+    "hand blower",
+    "power drill",
+    1
+  ],
+  [
+    "power drill",
+    "window shade",
+    1
+  ],
+  [
+    "plastic bag",
+    "power drill",
+    1
+  ],
+  [
+    "power drill",
+    "sweatshirt",
+    1
+  ],
+  [
+    "Border terrier",
+    "Lakeland terrier",
+    1
+  ],
+  [
+    "marmoset",
+    "titi",
+    1
+  ],
+  [
+    "ice cream",
+    "lemon",
+    1
+  ],
+  [
+    "barbershop",
+    "restaurant",
+    1
+  ],
+  [
+    "little blue heron",
+    "crane",
+    1
+  ],
+  [
+    "sea snake",
+    "coral reef",
+    1
+  ],
+  [
+    "crutch",
+    "shovel",
+    1
+  ],
+  [
+    "jersey",
+    "sweatshirt",
+    1
+  ],
+  [
+    "rock python",
+    "diamondback",
+    1
+  ],
+  [
+    "paper towel",
+    "pot",
+    1
+  ],
+  [
+    "paper towel",
+    "toilet tissue",
+    1
+  ],
+  [
+    "paper towel",
+    "window shade",
+    1
+  ],
+  [
+    "tiger cat",
+    "Egyptian cat",
+    1
+  ],
+  [
+    "birdhouse",
+    "pot",
+    1
+  ],
+  [
+    "water snake",
+    "sea snake",
+    1
+  ],
+  [
+    "breakwater",
+    "stone wall",
+    1
+  ],
+  [
+    "bannister",
+    "breakwater",
+    1
+  ],
+  [
+    "collie",
+    "Border collie",
+    1
+  ],
+  [
+    "collie",
+    "patio",
+    1
+  ],
+  [
+    "caldron",
+    "wok",
+    1
+  ],
+  [
+    "pot",
+    "ear",
+    1
+  ],
+  [
+    "spiny lobster",
+    "hermit crab",
+    1
+  ],
+  [
+    "ringneck snake",
+    "water snake",
+    1
+  ],
+  [
+    "lighter",
+    "remote control",
+    1
+  ],
+  [
+    "theater curtain",
+    "window shade",
+    1
+  ],
+  [
+    "flat-coated retriever",
+    "Newfoundland",
+    1
+  ],
+  [
+    "dam",
+    "valley",
+    1
+  ],
+  [
+    "padlock",
+    "shield",
+    1
+  ],
+  [
+    "malamute",
+    "Siberian husky",
+    1
+  ],
+  [
+    "restaurant",
+    "tobacco shop",
+    1
+  ],
+  [
+    "breastplate",
+    "gasmask",
+    1
+  ],
+  [
+    "academic gown",
+    "bannister",
+    1
+  ],
+  [
+    "academic gown",
+    "rifle",
+    1
+  ],
+  [
+    "carpenter's kit",
+    "safe",
+    1
+  ],
+  [
+    "ashcan",
+    "safe",
+    1
+  ],
+  [
+    "paintbrush",
+    "Windsor tie",
+    1
+  ],
+  [
+    "paintbrush",
+    "cup",
+    1
+  ],
+  [
+    "paintbrush",
+    "trench coat",
+    1
+  ],
+  [
+    "whiptail",
+    "green lizard",
+    1
+  ],
+  [
+    "Lakeland terrier",
+    "soft-coated wheaten terrier",
+    1
+  ],
+  [
+    "pitcher",
+    "water jug",
+    1
+  ],
+  [
+    "electric fan",
+    "washer",
+    1
+  ],
+  [
+    "knot",
+    "washer",
+    1
+  ],
+  [
+    "Bernese mountain dog",
+    "Appenzeller",
+    1
+  ],
+  [
+    "harmonica",
+    "ice lolly",
+    1
+  ],
+  [
+    "necklace",
+    "ice lolly",
+    1
+  ],
+  [
+    "digital clock",
+    "hand-held computer",
+    1
+  ],
+  [
+    "lotion",
+    "sunscreen",
+    1
+  ],
+  [
+    "caldron",
+    "frying pan",
+    1
+  ],
+  [
+    "frying pan",
+    "tub",
+    1
+  ],
+  [
+    "bathtub",
+    "frying pan",
+    1
+  ],
+  [
+    "agama",
+    "frilled lizard",
+    1
+  ],
+  [
+    "perfume",
+    "whistle",
+    1
+  ],
+  [
+    "hognose snake",
+    "horned viper",
+    1
+  ],
+  [
+    "Labrador retriever",
+    "Chesapeake Bay retriever",
+    1
+  ],
+  [
+    "grocery store",
+    "spotlight",
+    1
+  ],
+  [
+    "brain coral",
+    "coral reef",
+    1
+  ],
+  [
+    "brain coral",
+    "scuba diver",
+    1
+  ],
+  [
+    "radiator",
+    "studio couch",
+    1
+  ],
+  [
+    "spotlight",
+    "studio couch",
+    1
+  ],
+  [
+    "studio couch",
+    "window shade",
+    1
+  ],
+  [
+    "dishwasher",
+    "plate rack",
+    1
+  ],
+  [
+    "whiptail",
+    "agama",
+    1
+  ],
+  [
+    "whiptail",
+    "alligator lizard",
+    1
+  ],
+  [
+    "otterhound",
+    "cairn",
+    1
+  ],
+  [
+    "Shih-Tzu",
+    "cowboy hat",
+    1
+  ],
+  [
+    "American black bear",
+    "sloth bear",
+    1
+  ],
+  [
+    "four-poster",
+    "horizontal bar",
+    1
+  ],
+  [
+    "breastplate",
+    "shield",
+    1
+  ],
+  [
+    "cuirass",
+    "shield",
+    1
+  ],
+  [
+    "strainer",
+    "strawberry",
+    1
+  ],
+  [
+    "patio",
+    "rocking chair",
+    1
+  ],
+  [
+    "rocking chair",
+    "sliding door",
+    1
+  ],
+  [
+    "coffeepot",
+    "espresso maker",
+    1
+  ],
+  [
+    "coffeepot",
+    "espresso",
+    1
+  ],
+  [
+    "castle",
+    "monastery",
+    1
+  ],
+  [
+    "castle",
+    "stone wall",
+    1
+  ],
+  [
+    "grille",
+    "police van",
+    1
+  ],
+  [
+    "wood rabbit",
+    "hare",
+    1
+  ],
+  [
+    "sea slug",
+    "sea cucumber",
+    1
+  ],
+  [
+    "dung beetle",
+    "rhinoceros beetle",
+    1
+  ],
+  [
+    "digital clock",
+    "washer",
+    1
+  ],
+  [
+    "Yorkshire terrier",
+    "Australian terrier",
+    1
+  ],
+  [
+    "otterhound",
+    "Old English sheepdog",
+    1
+  ],
+  [
+    "bell cote",
+    "pedestal",
+    1
+  ],
+  [
+    "Greater Swiss Mountain dog",
+    "EntleBucher",
+    1
+  ],
+  [
+    "beach wagon",
+    "minivan",
+    1
+  ],
+  [
+    "car wheel",
+    "minivan",
+    1
+  ],
+  [
+    "mobile home",
+    "recreational vehicle",
+    1
+  ],
+  [
+    "recreational vehicle",
+    "suspension bridge",
+    1
+  ],
+  [
+    "stone wall",
+    "window screen",
+    1
+  ],
+  [
+    "window screen",
+    "window shade",
+    1
+  ],
+  [
+    "giant schnauzer",
+    "flat-coated retriever",
+    1
+  ],
+  [
+    "palace",
+    "sundial",
+    1
+  ],
+  [
+    "pedestal",
+    "sundial",
+    1
+  ],
+  [
+    "passenger car",
+    "sliding door",
+    1
+  ],
+  [
+    "restaurant",
+    "sliding door",
+    1
+  ],
+  [
+    "crane",
+    "submarine",
+    1
+  ],
+  [
+    "dock",
+    "submarine",
+    1
+  ],
+  [
+    "cairn",
+    "pug",
+    1
+  ],
+  [
+    "pug",
+    "jean",
+    1
+  ],
+  [
+    "minibus",
+    "sliding door",
+    1
+  ],
+  [
+    "chiffonier",
+    "hair spray",
+    1
+  ],
+  [
+    "desk",
+    "hair spray",
+    1
+  ],
+  [
+    "flat-coated retriever",
+    "kelpie",
+    1
+  ],
+  [
+    "boa constrictor",
+    "rock python",
+    1
+  ],
+  [
+    "bonnet",
+    "bookcase",
+    1
+  ],
+  [
+    "buckle",
+    "sweatshirt",
+    1
+  ],
+  [
+    "banded gecko",
+    "cowboy hat",
+    1
+  ],
+  [
+    "bee",
+    "ant",
+    1
+  ],
+  [
+    "cowboy hat",
+    "tub",
+    1
+  ],
+  [
+    "tub",
+    "Windsor tie",
+    1
+  ],
+  [
+    "crane",
+    "ping-pong ball",
+    1
+  ],
+  [
+    "holster",
+    "scabbard",
+    1
+  ],
+  [
+    "Kerry blue terrier",
+    "Lakeland terrier",
+    1
+  ],
+  [
+    "Lakeland terrier",
+    "computer keyboard",
+    1
+  ],
+  [
+    "crib",
+    "stretcher",
+    1
+  ],
+  [
+    "cradle",
+    "stretcher",
+    1
+  ],
+  [
+    "breastplate",
+    "cuirass",
+    1
+  ],
+  [
+    "cuirass",
+    "pole",
+    1
+  ],
+  [
+    "otterhound",
+    "briard",
+    1
+  ],
+  [
+    "bullfrog",
+    "tailed frog",
+    1
+  ],
+  [
+    "Irish terrier",
+    "soft-coated wheaten terrier",
+    1
+  ],
+  [
+    "boathouse",
+    "breakwater",
+    1
+  ],
+  [
+    "backpack",
+    "boathouse",
+    1
+  ],
+  [
+    "barn",
+    "hay",
+    1
+  ],
+  [
+    "perfume",
+    "pop bottle",
+    1
+  ],
+  [
+    "ground beetle",
+    "long-horned beetle",
+    1
+  ],
+  [
+    "coffeepot",
+    "Crock Pot",
+    1
+  ],
+  [
+    "kuvasz",
+    "Samoyed",
+    1
+  ],
+  [
+    "Norfolk terrier",
+    "Norwich terrier",
+    1
+  ],
+  [
+    "hamster",
+    "syringe",
+    1
+  ],
+  [
+    "badger",
+    "chest",
+    1
+  ],
+  [
+    "tree frog",
+    "tailed frog",
+    1
+  ],
+  [
+    "bassinet",
+    "mosquito net",
+    1
+  ],
+  [
+    "diaper",
+    "mosquito net",
+    1
+  ],
+  [
+    "toyshop",
+    "cup",
+    1
+  ],
+  [
+    "china cabinet",
+    "toyshop",
+    1
+  ],
+  [
+    "bookcase",
+    "china cabinet",
+    1
+  ],
+  [
+    "cleaver",
+    "hatchet",
+    1
+  ],
+  [
+    "leaf beetle",
+    "weevil",
+    1
+  ],
+  [
+    "torch",
+    "unicycle",
+    1
+  ],
+  [
+    "pirate",
+    "wreck",
+    1
+  ],
+  [
+    "grille",
+    "pickup",
+    1
+  ],
+  [
+    "ruffed grouse",
+    "prairie chicken",
+    1
+  ],
+  [
+    "flute",
+    "panpipe",
+    1
+  ],
+  [
+    "red fox",
+    "grey fox",
+    1
+  ],
+  [
+    "bolo tie",
+    "hair slide",
+    1
+  ],
+  [
+    "radio",
+    "tape player",
+    1
+  ],
+  [
+    "apron",
+    "breastplate",
+    1
+  ],
+  [
+    "breastplate",
+    "buckle",
+    1
+  ],
+  [
+    "bakery",
+    "barbershop",
+    1
+  ],
+  [
+    "quail",
+    "partridge",
+    1
+  ],
+  [
+    "nipple",
+    "soap dispenser",
+    1
+  ],
+  [
+    "cradle",
+    "crib",
+    1
+  ],
+  [
+    "cradle",
+    "four-poster",
+    1
+  ],
+  [
+    "rock beauty",
+    "coral reef",
+    1
+  ],
+  [
+    "breakwater",
+    "sandbar",
+    1
+  ],
+  [
+    "breakwater",
+    "seashore",
+    1
+  ],
+  [
+    "black-and-tan coonhound",
+    "Doberman",
+    1
+  ],
+  [
+    "Loafer",
+    "shoe shop",
+    1
+  ],
+  [
+    "coffeepot",
+    "water jug",
+    1
+  ],
+  [
+    "Band Aid",
+    "lotion",
+    1
+  ],
+  [
+    "Band Aid",
+    "purse",
+    1
+  ],
+  [
+    "conch",
+    "snail",
+    1
+  ],
+  [
+    "conch",
+    "coil",
+    1
+  ],
+  [
+    "aircraft carrier",
+    "warplane",
+    1
+  ],
+  [
+    "aircraft carrier",
+    "pole",
+    1
+  ],
+  [
+    "aircraft carrier",
+    "chain",
+    1
+  ],
+  [
+    "dam",
+    "cliff",
+    1
+  ],
+  [
+    "stone wall",
+    "cliff",
+    1
+  ],
+  [
+    "cliff",
+    "valley",
+    1
+  ],
+  [
+    "bakery",
+    "shoe shop",
+    1
+  ],
+  [
+    "purse",
+    "shoe shop",
+    1
+  ],
+  [
+    "cowboy hat",
+    "neck brace",
+    1
+  ],
+  [
+    "breastplate",
+    "television",
+    1
+  ],
+  [
+    "breastplate",
+    "wig",
+    1
+  ],
+  [
+    "cowboy boot",
+    "shoe shop",
+    1
+  ],
+  [
+    "slide rule",
+    "sundial",
+    1
+  ],
+  [
+    "common newt",
+    "axolotl",
+    1
+  ],
+  [
+    "American Staffordshire terrier",
+    "bull mastiff",
+    1
+  ],
+  [
+    "American Staffordshire terrier",
+    "buckle",
+    1
+  ],
+  [
+    "wallaby",
+    "hare",
+    1
+  ],
+  [
+    "entertainment center",
+    "wardrobe",
+    1
+  ],
+  [
+    "bucket",
+    "entertainment center",
+    1
+  ],
+  [
+    "broom",
+    "entertainment center",
+    1
+  ],
+  [
+    "picket fence",
+    "worm fence",
+    1
+  ],
+  [
+    "trifle",
+    "ice cream",
+    1
+  ],
+  [
+    "trifle",
+    "cup",
+    1
+  ],
+  [
+    "candle",
+    "jean",
+    1
+  ],
+  [
+    "candle",
+    "studio couch",
+    1
+  ],
+  [
+    "candle",
+    "water jug",
+    1
+  ],
+  [
+    "frying pan",
+    "mixing bowl",
+    1
+  ],
+  [
+    "frying pan",
+    "dough",
+    1
+  ],
+  [
+    "frying pan",
+    "eggnog",
+    1
+  ],
+  [
+    "cellular telephone",
+    "stethoscope",
+    1
+  ],
+  [
+    "hand-held computer",
+    "stethoscope",
+    1
+  ],
+  [
+    "sea snake",
+    "eel",
+    2
+  ],
+  [
+    "cornet",
+    "French horn",
+    2
+  ],
+  [
+    "Indian elephant",
+    "African elephant",
+    2
+  ],
+  [
+    "buckle",
+    "swimming trunks",
+    2
+  ],
+  [
+    "moving van",
+    "pickup",
+    2
+  ],
+  [
+    "cradle",
+    "mosquito net",
+    2
+  ],
+  [
+    "rocking chair",
+    "studio couch",
+    2
+  ],
+  [
+    "red fox",
+    "kit fox",
+    2
+  ],
+  [
+    "mailbag",
+    "purse",
+    2
+  ],
+  [
+    "military uniform",
+    "pickelhaube",
+    2
+  ],
+  [
+    "sundial",
+    "wall clock",
+    2
+  ],
+  [
+    "horizontal bar",
+    "parallel bars",
+    2
+  ],
+  [
+    "bookcase",
+    "bookshop",
+    2
+  ],
+  [
+    "electric ray",
+    "stingray",
+    2
+  ],
+  [
+    "CD player",
+    "tape player",
+    2
+  ],
+  [
+    "barn spider",
+    "wolf spider",
+    2
+  ],
+  [
+    "beagle",
+    "Walker hound",
+    2
+  ],
+  [
+    "boathouse",
+    "lakeside",
+    2
+  ],
+  [
+    "Band Aid",
+    "lens cap",
+    2
+  ],
+  [
+    "toy poodle",
+    "miniature poodle",
+    2
+  ],
+  [
+    "Eskimo dog",
+    "Siberian husky",
+    2
+  ],
+  [
+    "Polaroid camera",
+    "reflex camera",
+    2
+  ],
+  [
+    "rock crab",
+    "fiddler crab",
+    2
+  ],
+  [
+    "miniature schnauzer",
+    "standard schnauzer",
+    3
+  ],
+  [
+    "bookshop",
+    "library",
+    3
+  ],
+  [
+    "Appenzeller",
+    "EntleBucher",
+    3
+  ],
+  [
+    "comic book",
+    "book jacket",
+    3
+  ],
+  [
+    "titi",
+    "squirrel monkey",
+    3
+  ],
+  [
+    "Shih-Tzu",
+    "Lhasa",
+    3
+  ],
+  [
+    "ringlet",
+    "lycaenid",
+    3
+  ],
+  [
+    "water bottle",
+    "water jug",
+    3
+  ],
+  [
+    "coffeepot",
+    "teapot",
+    3
+  ],
+  [
+    "tabby",
+    "Egyptian cat",
+    3
+  ],
+  [
+    "gasmask",
+    "oxygen mask",
+    3
+  ],
+  [
+    "kuvasz",
+    "Great Pyrenees",
+    3
+  ],
+  [
+    "Walker hound",
+    "English foxhound",
+    4
+  ],
+  [
+    "horned viper",
+    "sidewinder",
+    4
+  ],
+  [
+    "whippet",
+    "Saluki",
+    4
+  ],
+  [
+    "American chameleon",
+    "green lizard",
+    5
+  ],
+  [
+    "Madagascar cat",
+    "indri",
+    5
+  ]
+]
