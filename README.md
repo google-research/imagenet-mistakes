@@ -18,6 +18,11 @@ multi-label accuracy by checking whether the top predicted label is in
 the combination of the 'correct_multi_label' and 'unclear_multi_label'
 fields.
 
+The example notebook in the notebooks directory contains example code
+for evaluating on these splits, including multi-label accuracy and the
+ImageNet-M split using pre-computed logits for the ViT-3B and Greedy
+Soups models used in the paper.
+
 ## Metadata
 
  - Class Confusions: We include a list of the individual ImageNet classes
