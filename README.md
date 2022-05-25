@@ -2,7 +2,21 @@
 
 This repository contains information related to the paper
 ["When does dough become a bagel? Analyzing the remaining mistakes on
-ImageNet"]().
+ImageNet"](https://arxiv.org/abs/2205.04596).
+
+## ImageNet-M and updated ImageNet-Multilabel data.
+
+To evaluate on imagenet2012_multilabel and the ImageNet-M subset,
+please visit the TensorFlow datasets page for ["imagenet2012_multilabel"](https://www.tensorflow.org/datasets/catalog/imagenet2012_multilabel), which includes instructions for how to prepare the dataset
+and access both evaluation splits using version 3.0.0 of the dataset,
+which we have released with this paper.
+
+When evaluating on imagenet2012_multilabel, please see the associated
+instructions on that page to evaluate multi-label accuracy.  For
+the ImageNet-M split, it suffices to just count standard top-1
+multi-label accuracy by checking whether the top predicted label is in
+the combination of the 'correct_multi_label' and 'unclear_multi_label'
+fields.
 
 ## Metadata
 
@@ -27,6 +41,16 @@ assessments to just 'minor' in our analysis.
 
 If you use any artifacts from this repo, kindly include the following citation 
 in your work:
+
+```
+@article{vasudevan2022does,
+  title={When does dough become a bagel? Analyzing the remaining mistakes on ImageNet},
+  author={Vasudevan, Vijay and Caine, Benjamin and Gontijo-Lopes, Raphael and Fridovich-Keil, Sara and Roelofs, Rebecca},
+  journal={arXiv preprint arXiv:2205.04596},
+  year={2022}
+}
+
+```
 
 # License
 
